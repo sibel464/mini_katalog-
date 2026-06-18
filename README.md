@@ -27,7 +27,7 @@ Projeyi bilgisayarınızda veya emulator'da çalıştırmak için:
 
 ## 📸 Ekran Görüntüleri
 
-*(Projenin ekran görüntüleri `screenshots` klasöründe yer almaktadır)*
-- Ekran 1: Ana Sayfa ve Arama Çubuğu
-- Ekran 2: Ürün Detay Sayfası
-- Ekran 3: Dinamik Sepet Ekranı
+![Ekran 1](screenshots/1.png)
+![Ekran 2](screenshots/2.png)
+![Ekran 3](screenshots/3.png)
+![Ekran 4](screenshots/4.png)
